@@ -1,0 +1,9 @@
+* trivial-adjust-simple-array
+
+A tiny utility to change array size ensuring it is simple.
+
+|---------+-----------------------------------------------------------|
+| source  | git:https://gitlab.com/lockie/trivial-adjust-simple-array |
+| commit  | 525e757f                                                  |
+| systems | trivial-adjust-simple-array                               |
+|---------+-----------------------------------------------------------|
