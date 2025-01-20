@@ -4,6 +4,6 @@ A tiny utility to change array size ensuring it is simple.
 
 |---------+-----------------------------------------------------------|
 | source  | git:https://gitlab.com/lockie/trivial-adjust-simple-array |
-| commit  | 1d8e4ca                                                   |
+| commit  | 393d404                                                   |
 | systems | trivial-adjust-simple-array                               |
 |---------+-----------------------------------------------------------|
