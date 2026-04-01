@@ -7,3 +7,4 @@ A tiny utility to change array size ensuring it is simple.
 | commit  | 393d404                                                   |
 | systems | trivial-adjust-simple-array                               |
 |---------+-----------------------------------------------------------|
+ 
